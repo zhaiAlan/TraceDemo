@@ -1,0 +1,17 @@
++[ViewController load]
++[AppDelegate load]
+_main
+-[AppDelegate application:didFinishLaunchingWithOptions:]
++[ViewController initialize]
+-[SceneDelegate window]
+-[SceneDelegate setWindow:]
+-[SceneDelegate scene:willConnectToSession:options:]
+-[ViewController viewDidLoad]
+_$s9TraceDemo9SwiftTestC05swiftD4LoadyyFZTo
+_$s9TraceDemo9SwiftTestC05swiftD4LoadyyFZ
+_$ss5print_9separator10terminatoryypd_S2StFfA0_
+_$ss5print_9separator10terminatoryypd_S2StFfA1_
+_test
+_block1_block_invoke
+-[SceneDelegate sceneWillEnterForeground:]
+-[SceneDelegate sceneDidBecomeActive:]
